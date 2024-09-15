@@ -32,11 +32,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yehiamoh/yehiamoh/output/snake.svg" alt="Snake animation" />
+<div align="left">
+</div>
 
 ###
 
-<div align="left">
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yehiamoh/yehiamoh/output/snake.svg" alt="Snake animation" />
 
 ###
